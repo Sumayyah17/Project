@@ -1,2 +1,2 @@
-# Project
-MS02700 Tree sort project 
+# Tree Sort Project
+This repository contains my Java implementation of Tree Sort and the JUnit tests.
